@@ -6,11 +6,11 @@ The project aimed to create creative pictures by analyzing input texts and using
 
 # What to do
 
-It is recommended to use a fresh installation of Ubuntu 14.04.
+It is recommended to use a fresh installation of Ubuntu.
 
 Install Caffe
   - Make sure your Caffe folder and your wordpainter folder are in the same directory.
-  - http://caffe.berkeleyvision.org/installation.html
+  - See the Wiki for installation guides.
   - Make sure to add GPU and cuDNN support if you have the hardware.
 
 Add your text files for analyzis in /text_corpus. makewikifiles.py can be used.
